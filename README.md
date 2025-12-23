@@ -50,9 +50,6 @@ This repository covers **Day 1 fundamentals of C# .NET**, focusing on core progr
 
 Day 1 builds a strong foundation in **C# and .NET**, preparing you for advanced topics in the upcoming sessions.
 
-Here’s a **balanced README** for **Day 2**, with a **mix of short paragraphs and bullet points**, clean and GitHub-ready 👇
-
----
 
 # 📘 Day 2: C# Programming Elements
 
