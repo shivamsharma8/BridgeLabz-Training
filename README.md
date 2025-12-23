@@ -49,3 +49,23 @@ This repository covers **Day 1 fundamentals of C# .NET**, focusing on core progr
 ## Summary
 
 Day 1 builds a strong foundation in **C# and .NET**, preparing you for advanced topics in the upcoming sessions.
+
+
+# 📘 Day 2: C# Programming Elements
+
+Day 2 focuses on understanding the fundamental programming elements of C#. These concepts are essential for writing basic programs and preparing for advanced topics like control statements and object-oriented programming.
+
+### Topics Covered
+
+* Variables and Constants
+* Literals and Data Types
+* Type Conversion
+* Operators and Expressions
+* Basic Input and Output
+
+The session is conducted using **C# on the .NET platform**, with all programs compiled and executed through **command-line tools** using a standard code editor.
+
+---
+
+If you want it **shorter**, **more attractive**, or **aligned exactly with your Day 1 README**, I can adjust it instantly 👍
+
