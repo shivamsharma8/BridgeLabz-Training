@@ -21,7 +21,7 @@ namespace BridgeLabzTraining.Methods.Level_1
             double angle = double.Parse(Console.ReadLine());
 
             double[] results = tc.calculateTrigonometricFunctions(angle);
-            Console.WriteLine($"Sine: {results[0]} Cosine: {results[1]} Tangent: {results[2]}");
+            Console.WriteLine("Sine: "+results[0]+" Cosine: "+ results[1]+" Tangent: " + results[2]);
         }
     }
 }
