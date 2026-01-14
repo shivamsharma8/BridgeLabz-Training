@@ -18,7 +18,7 @@ All content is organized **week-wise** to ensure clarity, consistency, and struc
 | 16-12-2025 | Orientation | Training overview, roadmap, expectations | Understood overall learning structure |
 | 17-12-2025 | Git & Java | GitHub fundamentals, basic Java programs | Created GitHub repository and practiced Java basics |
 | 18-12-2025 | C# / .NET Setup | Environment setup, Java to C# transition | Converted programs and pushed to GitHub |
-| 19-12-2025 | C# Fundamentals | Operators, data types, CLR basics, memory overview | Implemented programs and completed assignments |
+| 19-12-2025 | C# Fundamentals | Operators, data types, CLR basics, memory overview | Implemented programs and practiced fundamentals |
 | 20-12-2025 | Access Modifiers | public, private, protected, internal | Implemented examples and solved practice problems |
 
 ### 📝 Week 1 – Highlights
@@ -72,8 +72,31 @@ All content is organized **week-wise** to ensure clarity, consistency, and struc
 
 ---
 
+## 📅 Week 4 (07 Jan 2026 – 12 Jan 2026)
+## 🧮 Data Structures
+
+### 🗂️ Daily Learning Log
+
+| Date | Area of Focus | Topics Learned | Practical Work |
+|------|--------------|---------------|----------------|
+| 07-01-2026 | Data Structure Basics | Introduction to Data Structures, Linked List | Implemented Linked List programs |
+| 08-01-2026 | Stack & Queue | Stack, Queue, HashMap, Hashing Function | Implemented Stack and Queue |
+| 09-01-2026 | Sorting Algorithms | Bubble, Selection, Insertion, Merge Sort | Implemented sorting algorithms |
+| 11-01-2026 | Searching Algorithms | Linear Search, Binary Search | Implemented search-based programs |
+| 12-01-2026 | Utilities & File Handling | StringBuilder, input/output concepts | Practiced efficient string handling |
+
+### 📝 Week 4 – Key Learnings
+- Hands-on experience with core data structures  
+- Strong understanding of Linked List, Stack, Queue, and HashMap  
+- Knowledge of hashing techniques  
+- Implemented sorting and searching algorithms  
+- Improved performance-oriented thinking  
+
+---
+
 ## 🚀 Overall Summary
 - Built a strong foundation in **C# and .NET**  
 - Improved **problem-solving and logical reasoning skills**  
 - Gained confidence in **object-oriented programming**  
+- Developed practical knowledge of **Data Structures & Algorithms**  
 - Maintained structured and consistent GitHub contributions  
