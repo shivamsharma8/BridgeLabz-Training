@@ -136,12 +136,54 @@ This repository documents my **structured learning journey** through C#, .NET, D
 
 ---
 
+## 📅 Week 7 – Learning Log (26–31 January 2026)
+
+| Date | Focus Area | Topics Covered | Hands-on / Outcome |
+|-----|-----------|---------------|-------------------|
+| **26/01/2026** | Annotations & Reflection | • Attributes (Annotations) <br> • Built-in & Custom Attributes <br> • Reflection API <br> • Runtime metadata inspection | • Implemented custom annotations <br> • Used Reflection to inspect classes, methods, and properties <br> • Solved multiple problems to understand runtime behavior |
+| **27/01/2026** | SonarQube & Code Quality | • SonarQube setup & analysis concepts <br> • Code smells & quality rules <br> • Refactoring practices <br> • Collections <br> • Generics <br> • Exception Handling | • Tried implementing SonarQube (partially completed) <br> • Refactored Address Book application using Collections & Generics <br> • Improved Exception Handling across the project |
+| **28/01/2026** | CSV Handling & Exception-Centric Systems | • CSV file reading & writing <br> • CSV parsing <br> • Exception handling in file operations <br> • MSTest basics | • Solved multiple problems on CSV data handling <br> • Built **AeroVigil – Airline Management System** (exception-focused) <br> • Implemented **Bank Account scenario** with MSTest-based test cases |
+| **29/01/2026** | JSON, Regex & Mentorship | • JSON concepts <br> • Reading & writing JSON files <br> • Parsing JSON data <br> • Regex revision & advanced patterns | • Implemented JSON read/write utilities <br> • Built **LexicalTwit** – Twitter-like text validation system using Regex <br> • Mentorship meeting for guidance and progress review |
+| **30/01/2026** | JSON Practice & Concept Revision | • JSON problem-solving <br> • Data parsing <br> • Revision of Collections, Exceptions, Regex | • Solved multiple JSON-based problems <br> • Revised previously learned concepts for better retention |
+| **31/01/2026** | Address Book – Feature Completion | • Address Book use cases (UCs) <br> • Applying learned concepts | • Implemented additional UCs in Address Book <br> • Integrated Collections, Generics, Exception Handling, and File Operations <br> • Brought the project closer to completion |
+
+---
+
+## 📝 Week 7 – Key Learnings
+
+- Gained hands-on experience with **Annotations and Reflection**, understanding how frameworks utilize runtime metadata.
+- Learned the importance of **static code analysis tools like SonarQube** in maintaining clean, maintainable, and industry-ready code.
+- Developed strong practical knowledge of **CSV data handling**, including file I/O, parsing, and exception-safe operations.
+- Understood real-world usage of **Exception Handling** through scenario-based systems such as Airline Management and Banking applications.
+- Built confidence in **unit testing using MSTest**, especially for validation and exception-driven test cases.
+- Learned **JSON data handling**, including reading, writing, and parsing structured data formats.
+- Applied **Regex** in real-world text-processing scenarios through the LexicalTwit project.
+- Improved ability to **revise, refactor, and extend existing applications**, particularly the Address Book project.
+- Realized that **project completion is iterative**, involving continuous testing, refactoring, and feature enhancement.
+
+---
+
+
 ## 📊 Code Quality & Tooling
 
 - ✅ **SonarQube Integration** (Static Code Analysis)
 - ✅ **Code Coverage Analysis**
 - ✅ Clean code practices & refactoring
 - ✅ Unit-tested applications (AddressBook & others)
+
+---
+
+## 🛠️ Technologies & Concepts Used
+
+- C# / .NET
+- Data Structures & Algorithms
+- Collections & Generics
+- Exception Handling
+- File I/O (CSV, JSON)
+- Regular Expressions (Regex)
+- Unit Testing (MSTest)
+- Reflection & Annotations
+- SonarQube (Code Quality & Static Analysis)
 
 ---
 
